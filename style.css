@@ -165,13 +165,16 @@ h3 {
   padding: 20px;
   background: linear-gradient(to right, #3498db, #8e44ad);
   transform: translateZ(100px);
-  width: 100%;
+  width: 101%;
   height: 100%;
   border-radius: 10px;
+  
 }
 
 .container .box .body .content div h3{
   letter-spacing: 1px;
 }
+
+
 
 
