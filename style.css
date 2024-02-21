@@ -178,3 +178,21 @@ h3 {
 
 
 
+.discord-btn {
+  margin-bottom: 5px;
+  margin-top: 5px;
+  text-align: center;
+}
+
+.discord-btn button {
+  border-color: rgb(29, 0, 58);
+  background: none;
+  cursor: pointer;
+  transition: box-shadow 0.3s ease-in-out;
+}
+
+.discord-btn button:hover {
+  box-shadow: 0 4px 8px 0 rgba(89, 0, 255, 0.253), 0 6px 20px 0 rgba(0, 119, 255, 0.199) !important;
+  
+  
+}
